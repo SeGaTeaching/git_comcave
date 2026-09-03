@@ -1,5 +1,5 @@
 erste Zeile
 zweite Zeile
-dritte Zeile im Main Branch
-vierte Zeile im Main Branch
+dritte Zeile von feature/conflict branch
+vierte Zeile vo feature/confict branch
 fünfte Zeile im Main Branch
